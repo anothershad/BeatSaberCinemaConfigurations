@@ -1,0 +1,165 @@
+{
+  "videoID": "T0kpGEE-isU",
+  "title": "Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】",
+  "author": "Will Stetson",
+  "videoFile": "Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】.mp4",
+  "duration": 264,
+  "offset": -1340,
+  "configByMapper": true,
+  "screenPosition": {
+    "x": 0.0,
+    "y": 12,
+    "z": 80.0
+  },
+  "screenHeight": 24,
+  "screenCurvature": 0,
+  "bloom": 1.0,
+  "colorCorrection": {
+    "gamma": 0.8
+  },
+  "vignette": {
+    "type": "elliptical",
+    "radius": 0.9,
+    "softness": 1
+  },
+  "environment": [
+    {
+      "name": "TopCones",
+      "active": false
+    },
+    {
+      "name": "Ring",
+      "active": false
+    },
+    {
+      "name": "Panels4TrackLaneRing(Clone)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "BaseL",
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 1
+      }
+    },
+    {
+      "name": "BaseR",
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (1)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (2)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (3)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (4)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (5)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "RotatingLasersPair (6)",
+      "scale": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1
+      }
+    },
+    {
+      "name": "Spectrogram0",
+      "scale": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 1
+      }
+    },
+    {
+      "name": "WindowLeft",
+      "cloneFrom": "Window",
+      "position": {
+        "x": -15,
+        "y": 9,
+        "z": 45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 315,
+        "z": 0
+      },
+      "scale": {
+        "x": 15,
+        "y": 15,
+        "z": 15
+      }
+    },
+    {
+      "name": "WindowRight",
+      "cloneFrom": "Window",
+      "position": {
+        "x": 15,
+        "y": 9,
+        "z": 45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 45,
+        "z": 0
+      },
+      "scale": {
+        "x": 15,
+        "y": 15,
+        "z": 15
+      }
+    },
+    {
+      "name": "Window",
+      "active": false
+    }
+  ]
+}
