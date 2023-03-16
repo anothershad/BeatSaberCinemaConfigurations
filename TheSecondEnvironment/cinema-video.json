@@ -1,0 +1,96 @@
+{
+  "videoID": "Video ID Here",
+  "title": "Video Title Here",
+  "author": "Video Uploader Here",
+  "videoFile": "Video File Here",
+  "duration": Duration of video (Seconds),
+  "offset": Offset (Seconds),
+  "configByMapper": true,
+  "disableDefaultModifications": true,
+  "screenPosition": {
+    "x": 0.0,
+    "y": 10.0,
+    "z": 67.8
+  },
+  "screenHeight": 20.0,
+  "screenCurvature": 0,
+  "environment": [
+    {
+      "name": "Ring",
+      "active": false
+    },
+    {
+      "name": "SmallTrackLaneRingsGroup",
+      "position": {
+        "x": 0.0,
+        "y": 1.6,
+        "z": 14.0
+      },
+      "scale": {
+        "x": 1.4,
+        "y": 1.4,
+        "z": 1.3
+      }
+    },
+    {
+      "name": "RingLaser",
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+    {
+      "name": "RingLaser (1)",
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+    {
+      "name": "TrackConstruction",
+      "active": true
+    },
+    {
+      "name": "NeonTubeBothSidesDirectional",
+      "scale": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 1.0
+      }
+    },
+    {
+      "name": "NeonTubeBothSidesDirectional (1)",
+      "scale": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 1.0
+      }
+    },
+    {
+      "name": "NeonTubeBothSidesDirectional (2)",
+      "scale": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 1.0
+      }
+    },
+    {
+      "name": "NeonTubeBothSidesDirectional (3)",
+      "scale": {
+        "x": 4.0,
+        "y": 4.0,
+        "z": 1.0
+      }
+    },
+    {
+      "name": "Buildings",
+      "active": false
+    },
+    {
+      "name": "FrontLogo",
+      "active": false
+    }
+  ]
+}
