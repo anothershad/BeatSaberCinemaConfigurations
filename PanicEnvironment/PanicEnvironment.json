@@ -1,11 +1,12 @@
 {
-  "videoID": "T0kpGEE-isU",
-  "title": "Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】",
-  "author": "Will Stetson",
-  "videoFile": "Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】.mp4",
-  "duration": 264,
-  "offset": -1340,
+  "videoID": "Video ID Here",
+  "title": "Video Title Here",
+  "author": "Video Uploader Here",
+  "videoFile": "Video File Here",
+  "duration": Duration of video (Seconds),
+  "offset": Offset (Seconds),
   "configByMapper": true,
+  "disableDefaultModifications": true,
   "screenPosition": {
     "x": 0.0,
     "y": 12,
