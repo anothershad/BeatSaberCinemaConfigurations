@@ -1,0 +1,24 @@
+{
+  "videoID": "zbgWUK_tidI",
+  "title": "【MV】Non-Fiction 【hololive English -Myth- Original Song】",
+  "author": "Mori Calliope Ch. hololive-EN",
+  "videoFile": "【MV】Non-Fiction 【hololive English -Myth- Original Song】.mp4",
+  "duration": 262,
+  "offset": -1040,
+  "configByMapper": true,
+  "bloom": 2.0,
+  "environment": [
+    {
+      "name": "ScreenSetupRight",
+      "active": false
+    },
+    {
+      "name": "ScreenSetupLeft",
+      "active": false
+    },
+    {
+      "name": "PlayerSetup",
+      "active": false
+    }
+  ]
+}

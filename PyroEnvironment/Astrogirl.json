@@ -1,0 +1,45 @@
+{
+  "videoID": "R8y1aWMlPOs",
+  "title": "【Original Song MV】Astrogirl",
+  "author": "Tsukumo Sana Ch. hololive-EN",
+  "videoFile": "【Original Song MV】Astrogirl.mp4",
+  "duration": 190,
+  "offset": -1360,
+  "configByMapper": true,
+  "bloom": 0.2,
+  "colorCorrection": {
+    "brightness": 0.75,
+    "contrast": 0.6,
+    "saturation": 0.6
+  },
+  "environment": [
+    {
+      "name": "ScreenSetupRight",
+      "active": false
+    },
+    {
+      "name": "ScreenSetupLeft",
+      "active": false
+    },
+    {
+      "name": "PlayerSetup",
+      "active": false
+    },
+    {
+      "name": "LightGroupRight",
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "name": "LightGroupLeft",
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}
