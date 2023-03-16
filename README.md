@@ -1,7 +1,7 @@
 # BeatSaberCinemaConfigurations
-#### This is a compilation of all of my Cinema configs across my Cinema maps. 
+#### This is a compilation of all of my Cinema configs across [my Cinema maps](https://beatsaver.com/playlists/59231)
 
-Everything in this repo is free to use. Find something you want that isn't here? I probably forgot to put it here, doesn't hurt to ask!
+Everything in this repo is free to use, just give me credit! Find something you want that isn't here? I probably forgot to put it here, doesn't hurt to ask!
 > Discord: shad#0093
 
 > Twitter: [@anothershad](https://twitter.com/anothershad)
