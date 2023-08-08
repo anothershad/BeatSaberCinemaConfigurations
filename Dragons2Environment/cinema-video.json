@@ -1,0 +1,44 @@
+{
+  "videoID": "Video ID Here",
+  "title": "Video Title Here",
+  "author": "Video Author Here",
+  "videoFile": "Video File Title Here",
+  "duration": Video Duration Here,
+  "offset": Video Offset Here,
+  "configByMapper": true,
+  "screenPosition": {
+    "x": 0.0,
+    "y": 9.0,
+    "z": 67.8
+  },
+  "screenHeight": 22.0,
+  "colorCorrection": {
+    "saturation": 0.8,
+    "exposure": 1,
+    "gamma": 0.7
+  },
+  "vignette": {
+    "type": "elliptical",
+    "radius": 0.5,
+    "softness": 0.5
+  },
+  "environment": [
+    {
+      "name": "HallConstruction",
+      "active": false
+    },
+    {
+      "name": "TopSpotlightsGroup",
+      "position": {
+        "x": 0.0,
+        "y": -7.0,
+        "z": 50.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 180.0
+      }
+    }
+  ]
+}
